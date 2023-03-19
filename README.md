@@ -5,7 +5,7 @@ I wrote a program in ROS to guide a robot to navigate a small randomly oriented 
 
 It would then analyse and identify the correct Cluedo character and save a picture and text file identifying the character  
 
-I also made a video that showed how the robot worked, and wrote a report explaining the code and methodology. All code was written by me, although unfortunately our gitlab repository was lost when my university email was shut down. However, the repor does contain large portions of the Python code.  
+I also made a video that showed how the robot worked, and wrote a report explaining the code and methodology. All code was written by me, although unfortunately our gitlab repository was lost when my university email was shut down. However, the report does contain large portions of the Python code.  
 
 
 Video of working Buggy:  
